@@ -299,11 +299,7 @@ label{
 .switch{
     margin-right: 20px;
 }
-#navbar-full .navbar{
-    border-radius: 0 !important;
-    margin-bottom: 15px;
-    z-index: 2;
-}
+
 .space{
     height: 130px;
     display: block;
@@ -343,9 +339,6 @@ label{
     text-transform: capitalize;
 }
 
-#buttons .btn{
-    margin: 0 0px 15px;
-}
 .space-100{
     height: 100px;
     display: block;
@@ -437,9 +430,7 @@ label{
     top: 2px;
     margin-right: 5px;
 }
-#navbar{
-    margin-bottom: -20px;
-}
+
 .sharing-area .btn-twitter{
     background-color: #55acee;
 }
@@ -451,9 +442,6 @@ label{
 }
 .sharing-area .btn-github{
     background-color: #333333;
-}
-#navbar .navbar{
-    border-radius: 0;
 }
 
 @media (max-width: 830px){
